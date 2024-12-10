@@ -56,7 +56,7 @@ Make sure you have the following installed:
 
 5. Running the Backend (FastAPI)
    - myenv\Scripts\activate
-   - python main.py //Start the FastAPI server
+   - python main.py # Start the FastAPI server
 
 6. The backend will be running at http://127.0.0.1:8000.
 
