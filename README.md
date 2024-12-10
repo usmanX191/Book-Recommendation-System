@@ -54,10 +54,10 @@ Make sure you have the following installed:
 4. Install the required dependencies:
    - pip install -r requirements.txt
 
-5. Running the Backend (FastAPI)
+5. Running the Backend (Start the FastAPI server)
    - myenv\Scripts\activate
-   - python main.py # Start the FastAPI server
-
+   - python main.py
+     
 6. The backend will be running at http://127.0.0.1:8000.
 
 ## Running the Frontend (Streamlit)
