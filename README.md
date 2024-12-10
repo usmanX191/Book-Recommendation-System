@@ -46,24 +46,27 @@ Make sure you have the following installed:
    - python -m venv myenv
 
 3. Activate the virtual environment:
-   - On Windows: myenv\Scripts\activate
-   - On macOS/Linux: source myenv/bin/activate
+   - On Windows:
+      - myenv\Scripts\activate
+   - On macOS/Linux:
+      - source myenv/bin/activate
 
 4. Install the required dependencies:
    - pip install -r requirements.txt
 
 5. Running the Backend (FastAPI)
-   - Start the FastAPI server:
-   - uvicorn main:app --reload
+   - myenv\Scripts\activate
+   - python main.py //Start the FastAPI server
 
-6. The backend will be running at http://127.0.0.1:5000.
+6. The backend will be running at http://127.0.0.1:8000.
 
 ## Running the Frontend (Streamlit)
 
-1. Start the Streamlit frontend:
+1. Open New Terminal & Start the Streamlit frontend:
+   - myenv\Scripts\activate 
    - streamlit run frontend.py
 
-2. The frontend will open in your browser, where you can provide inputs like genre and receive book recommendations.
+3. The frontend will open in your browser, where you can provide inputs like genre and receive book recommendations.
 
 ## Example Output
 
