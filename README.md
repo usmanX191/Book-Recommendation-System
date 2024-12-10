@@ -58,7 +58,7 @@ Make sure you have the following installed:
    - myenv\Scripts\activate
    - python main.py
      
-6. The backend will be running at http://127.0.0.1:8000.
+6. The backend will be running at http://localhost:8000.
 
 ## Running the Frontend (Streamlit)
 
@@ -66,7 +66,7 @@ Make sure you have the following installed:
    - myenv\Scripts\activate 
    - streamlit run frontend.py
      
-2. The frontend will be running at http://127.0.0.1:8501.
+2. The frontend will be running at http://localhost:8501.
 
 3. The frontend will open in your browser, where you can provide inputs like genre and receive book recommendations.
 
