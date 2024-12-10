@@ -65,6 +65,8 @@ Make sure you have the following installed:
 1. Open New Terminal & Start the Streamlit frontend:
    - myenv\Scripts\activate 
    - streamlit run frontend.py
+     
+2. The frontend will be running at http://127.0.0.1:8501.
 
 3. The frontend will open in your browser, where you can provide inputs like genre and receive book recommendations.
 
