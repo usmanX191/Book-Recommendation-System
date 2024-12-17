@@ -1,4 +1,4 @@
-![Screenshot 2024-12-17 155736](https://github.com/user-attachments/assets/4995d91e-75a8-4a9b-9c47-a328761c72ca)![Screenshot 2024-12-17 155618](https://github.com/user-attachments/assets/bdf63456-c1d4-4a95-b365-9ffbd4936d15)# Book Recommendation System Assistant
+# Book Recommendation System Assistant
 
 This project is a book recommendation system that leverages the Google Books API to recommend books based on user preferences such as genre, author, or keywords. It features a backend service built with FastAPI and a frontend interface developed using Streamlit for interactive user input. Additionally, it incorporates the OpenAI Assistant API to assist with user queries, providing an AI-powered chatbot experience for enhanced user interaction and personalized recommendations.
 
